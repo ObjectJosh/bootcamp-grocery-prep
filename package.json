@@ -1,0 +1,21 @@
+{
+  "name": "bootcamp-grocery-prep",
+  "version": "1.0.0",
+  "description": "Try out my program: https://objectjosh.github.io/bootcamp-grocery-prep/ ------------------------------------------ 2020 bootcamp project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ObjectJosh/bootcamp-grocery-prep.git",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ObjectJosh/bootcamp-grocery-prep/issues"
+  },
+  "homepage": "https://github.com/ObjectJosh/bootcamp-grocery-prep#readme"
+}
